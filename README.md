@@ -4,12 +4,13 @@
 This project demonstrates the power of **Sales and Finance Analytics** by utilizing Excel to create comprehensive, insightful reports. It leverages advanced Excel functionalities such as **Power Pivot**, **DAX**, and **ETL techniques** to derive meaningful insights from raw data.
 
 ## 📑 Table of Contents
-1. [Project Overview](#project-overview)
-2. [📈 Sales Reports](#sales-reports)
-3. [💼 Finance Reports](#finance-reports)
-4. [⚙️ Technical Skills Demonstrated](#technical-skills-demonstrated)
-5. [🌟 Soft Skills](#soft-skills)
-6. [📚 References](#references)
+1. Project Overview
+2. 📈 Sales Reports
+3. 💼 Finance Reports
+4. ⚙️ Technical Skills Demonstrated
+5. 🌟 Soft Skills
+6. 📚 References
+
 
 ---
 
