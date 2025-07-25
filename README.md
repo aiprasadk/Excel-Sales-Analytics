@@ -1,5 +1,6 @@
-
-# 📊 Excel Sales and Finance Analytics
+![Uploading![Excel Sales and Finance Analytics_thumbnail](https://github.com/user-attachments/assets/5fa154ed-8716-4d6b-8972-0422eb46d2ab)
+# 📊  Excel Sales and Finance Analytics_thumbnail.jpg…]()
+Excel Sales and Finance Analytics
 
 This project demonstrates the power of **Sales and Finance Analytics** by utilizing Excel to create comprehensive, insightful reports. It leverages advanced Excel functionalities such as **Power Pivot**, **DAX**, and **ETL techniques** to derive meaningful insights from raw data.
 
